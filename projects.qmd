@@ -1,0 +1,33 @@
+---
+title: "Projects & Case Studies"
+page-layout: article
+---
+
+> **LLM note:** Initial outlines drafted with an LLM, then edited by Vinay; evidence links and files are provided where available.
+
+## 1) Production Planning Strategy — T&L Ltd (Post‑COVID)
+
+-   **Summary:** Evaluated two production options for a circuit breaker manufacturer; balanced capacity, labor mix (permanent/temp/overtime), inventory, and demand uncertainty.
+-   **My Role:** Built cost scenarios, highlighted implementation risks, and discussed marketing impacts.
+-   **Artifacts:** Forecast tables, scenario summaries, APA‑style report excerpts.
+-   **Skills:** Forecasting, workforce planning, risk analysis.
+
+## 2) Digital Care Roadmap (2026–2029)
+
+-   **Summary:** Multi‑year roadmap for a healthcare provider’s digital care unit (training, analytics, governance, payer contracting).
+-   **My Role:** Structured a layer‑by‑layer roadmap, aligning clinical and IT teams; drafted governance model.
+-   **Skills:** Program planning, stakeholder alignment, change management.
+
+## 3) Netflix Strategy in a Saturated Streaming Market
+
+-   **Summary:** Analyzed evolving business model and leadership choices; recommended actions for ad‑supported tiers.
+-   **Artifacts:** Executive memo, SWOT, competitor mapping.
+-   **Skills:** Strategic analysis, leadership assessment, market positioning.
+
+## 4) Online Grocery Delivery Case
+
+-   **Summary:** Modeled demand, evaluated delivery economics, and proposed KPIs.
+-   **Artifacts:** Metric definitions, model snippets, APA‑referenced write‑up.
+-   **Skills:** Data analysis, KPI design, operations thinking.
+
+> *Tip:* Add links to PDFs or Google Drive for full reports, and include short screenshots with alt text.

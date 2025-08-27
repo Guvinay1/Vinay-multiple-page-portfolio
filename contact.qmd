@@ -1,0 +1,15 @@
+---
+title: "Contact"
+page-layout: article
+---
+
+- 📍 Vancouver, BC  
+- 📧 Email: <vinay.gupta@apexcollege.edu.np>  
+- 🔗 LinkedIn: <https://www.linkedin.com/in/<your-handle>/>  
+- 💼 GitHub: <https://github.com/<your-github-username>/>
+
+**Simple contact form (mailto):**
+
+- Click to email me: [Email Vinay](mailto:vinay.gupta@apexcollege.edu.np?subject=Hello%20Vinay&body=Hi%20Vinay%2C%0D%0A%0D%0AI'm%20reaching%20out%20about...)
+
+_Optional:_ Switch to a form service (Netlify Forms, Formspree) later.

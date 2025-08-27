@@ -1,0 +1,41 @@
+---
+title: "About"
+page-layout: article
+image: assets/headshot.jpg
+---
+
+## 
+
+# Hi, I’m Vinay Gupta
+
+MBA candidate at University Canada West and experienced finance & operations professional with a background in retail sales leadership and SME accounting. Motivated and customer-focused retail sales professional with proven experience in sales, customer engagement, and team leadership.  A self-starter with strong communication skills, adaptable to fast-paced environments, and driven to meet and exceed sales targets.
+
+-   **Location:** Vancouver, BC , V5W3P4\
+-   **Email:** [vinay.gupta\@apexcollege.edu.np](mailto:vinay.gupta@apexcollege.edu.np){.email}\
+-   **LinkedIn:** [https://www.linkedin.com/in/vinay-gupta-37b900207/https:/](https://www.linkedin.com/in/vinay-gupta-37b900207/)\>
+
+::: callout-note
+This website was built with Quarto and includes content first drafted with an LLM, then edited and verified by me. Pages that include LLM-polished text are labeled accordingly.
+:::
+
+## Highlights
+
+-   Finance & Admin Officer (2021–2024) at **Dilip Galla Bhandar Pvt. Ltd.** — reduced accounting errors by 10% and cut travel costs by 20% through e-transactions.
+-   Marketing & Sales Associate (Jan–Mar 2025) at **Canadian Tier Financial Services / Sales Beaver** — mentored a sales team and consistently exceeded weekly targets.
+-   BBA (CGPA 3.26), Apex College, Pokhara University; **MBA (in progress)**, UCW.
+
+> *Accessibility note:* all images have alt text; navigation works with keyboard; external links open in a new tab.
+
+::: {{.panel-tabset}}
+## Focus Areas
+
+-   Financial analysis & forecasting\
+-   Process improvement & ERP familiarity (Tally ERP)\
+-   Market research & customer insights\
+-   Team leadership & training
+
+## Currently Learning
+
+-   Data storytelling with Quarto\
+-   Advanced Excel modeling & Python basics
+:::

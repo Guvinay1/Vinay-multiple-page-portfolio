@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vinay Gupta — MBA Portfolio"
+  site-url: "https://<your-github-username>.github.io/vinay-mba-portfolio"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume / CV
+      - href: projects.qmd
+        text: Projects & Case Studies
+      - href: skills.qmd
+        text: Skills & Certifications
+      - href: leadership.qmd
+        text: Leadership & Service
+      - href: contact.qmd
+        text: Contact
+      - href: reflection.qmd
+        text: Reflection
+      - href: appendix.qmd
+        text: Appendix (LLM Drafts)
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/<your-handle>/
+      - icon: github
+        href: https://github.com/<your-github-username>/
+
+page-footer:
+  center: "© 2025 Vinay Gupta • Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+
+editor: visual

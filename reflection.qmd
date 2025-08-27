@@ -1,0 +1,14 @@
+---
+title: "Reflection on Using LLMs"
+page-layout: article
+---
+
+> **Authorship:** Drafted with an LLM and revised by Vinay Gupta on August 22, 2025.
+
+During this assignment I turned a one page portfolio into a multiple page site and used an LLM to help generate additional ideas, organize the site and proofread. The most effective technique was organized prompting: I used it as a method to request a sitemap and employs of sample content blocks per page followed by a narrowing down of the outputs by the use of constraints (tone, word counts, and role-specific metrics). I also asked the resumes to be merged and had some clean up done in the form of the elimination of redundancies and a focus on the quantified results. Multi-page layout has helped to isolate concerns: “Projects” page could be dedicated to case of study evidence whereas the “Skills” page could contain the summary of capabilities and tools. This structure was also very good in regards to navigation and readability.
+
+I did not use the LLM as final copy in order to perfect authenticity and accuracy. My question on each statement was:"Is there evidence (document, email, or dataset)?" Otherwise I cut or re‑phrased. I also included citations in APA-style in those places (where I mentioned general facts or frameworks) and maintained links. I also corrected the date and figures on the resume and compared them to my records (e.g.Tally ERP transition, error reduction, e-transactions volumes) removed ambiguous expressions such as” present” when my engagement was terminated. Finally, I performed a verification pass on jobTitles and units (NPR,CAD).
+
+Usability and accessibility were incorporated in the editing loop. Provided alt text to visual components, activated a table of contents, tried out use of the keyboard, and ensured that contrast was high through the default theme. I confirmed that all the external links to be opened in a new window and that titles of the pages were descriptive to screen readers. I have also avoided long paragraphs and scanned it using lists.
+
+Going forward, I will keep the appendix with **LLM drafts** for transparency and maintain a simple **change log** on GitHub. When I add new work, I’ll prompt the LLM to produce a first pass, then I’ll validate numbers, rewrite for voice, and cite any external sources. The LLM is most valuable as a collaborator for **structure and phrasing**, while final judgment and responsibility for accuracy remain with me.

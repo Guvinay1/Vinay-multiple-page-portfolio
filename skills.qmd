@@ -1,0 +1,25 @@
+---
+title: "Skills & Certifications"
+page-layout: article
+---
+
+### Technical & Analytical
+
+-   Financial reporting & analysis, budgeting, forecasting\
+-   Tally ERP • MS Excel (pivot tables, lookups), PowerPoint, Word\
+-   POS systems • Basic CRM
+
+### Business & Professional
+
+-   Market research • Strategic negotiation • Project management methods\
+-   Interpersonal communication • Team leadership & Training • Customer Engagement and Marketing • Team Building • Sales & Negotation
+
+### Certifications & Awards
+
+-   Best Leader (Apex Smart, 2018 Spring)\
+-   Best Performer (Apex Smart, 2018 Fall)\
+-   Best Group (Apex Smart, 2017 Spring)
+
+### Evidence / Examples
+
+-   Screenshots of dashboards or reports *(add images to `assets/` and reference with alt text)*.
