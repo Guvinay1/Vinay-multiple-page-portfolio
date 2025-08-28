@@ -21,10 +21,6 @@ website:
         text: Leadership & Service
       - href: contact.qmd
         text: Contact
-      - href: reflection.qmd
-        text: Reflection
-      - href: appendix.qmd
-        text: Appendix (LLM Drafts)
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/<your-handle>/
