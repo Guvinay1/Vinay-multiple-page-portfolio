@@ -19,7 +19,3 @@ page-layout: article
 -   Best Leader (Apex Smart, 2018 Spring)\
 -   Best Performer (Apex Smart, 2018 Fall)\
 -   Best Group (Apex Smart, 2017 Spring)
-
-### Evidence / Examples
-
--   Screenshots of dashboards or reports *(add images to `assets/` and reference with alt text)*.

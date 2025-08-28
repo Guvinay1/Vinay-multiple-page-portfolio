@@ -4,7 +4,7 @@
     "href": "skills.html",
     "title": "Skills & Certifications",
     "section": "",
-    "text": "Technical & Analytical\n\nFinancial reporting & analysis, budgeting, forecasting\n\nTally ERP • MS Excel (pivot tables, lookups), PowerPoint, Word\n\nPOS systems • Basic CRM\n\n\n\nBusiness & Professional\n\nMarket research • Strategic negotiation • Project management methods\n\nInterpersonal communication • Team leadership & Training • Customer Engagement and Marketing • Team Building • Sales & Negotation\n\n\n\nCertifications & Awards\n\nBest Leader (Apex Smart, 2018 Spring)\n\nBest Performer (Apex Smart, 2018 Fall)\n\nBest Group (Apex Smart, 2017 Spring)\n\n\n\nEvidence / Examples\n\nScreenshots of dashboards or reports (add images to assets/ and reference with alt text)."
+    "text": "Technical & Analytical\n\nFinancial reporting & analysis, budgeting, forecasting\n\nTally ERP • MS Excel (pivot tables, lookups), PowerPoint, Word\n\nPOS systems • Basic CRM\n\n\n\nBusiness & Professional\n\nMarket research • Strategic negotiation • Project management methods\n\nInterpersonal communication • Team leadership & Training • Customer Engagement and Marketing • Team Building • Sales & Negotation\n\n\n\nCertifications & Awards\n\nBest Leader (Apex Smart, 2018 Spring)\n\nBest Performer (Apex Smart, 2018 Fall)\n\nBest Group (Apex Smart, 2017 Spring)"
   },
   {
     "objectID": "reflection.html",
@@ -18,14 +18,14 @@
     "href": "leadership.html",
     "title": "Leadership & Service",
     "section": "",
-    "text": "Class Representative, Apex College (2019): Represented 60 students; coordinated with faculty.\n\nTutor, Apex College (2019): Conducted tutorials; 90% positive feedback; individualized support.\n\nOrganizer, Apex Sports Week (Apr 2017): Logistics, communications, and on‑site coordination.\n\n\nAdd community service, volunteering, or campus initiatives here."
+    "text": "Class Representative, Apex College (2019): Represented 60 students; coordinated with faculty.\n\nTutor, Apex College (2019): Conducted tutorials; 90% positive feedback; individualized support.\n\nOrganizer, Apex Sports Week (Apr 2017): Logistics, communications, and on‑site coordination."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "📍 Vancouver, BC\n\n📧 Email: vinay.gupta@apexcollege.edu.np\n\n🔗 LinkedIn: https://www.linkedin.com/in/&lt;your-handle/&gt;\n\n💼 GitHub: https://github.com/&lt;your-github-username/&gt;\n\nSimple contact form (mailto):\n\nClick to email me: Email Vinay\n\nOptional: Switch to a form service (Netlify Forms, Formspree) later."
+    "text": "📍 Vancouver, BC\n\n📧 Email: vinay.gupta@apexcollege.edu.np\n\n🔗 LinkedIn: https://www.linkedin.com/in/%3Cyour-handle/&gt;"
   },
   {
     "objectID": "appendix.html",
@@ -60,7 +60,7 @@
     "href": "index.html#highlights",
     "title": "About",
     "section": "Highlights",
-    "text": "Highlights\n\nFinance & Admin Officer (2021–2024) at Dilip Galla Bhandar Pvt. Ltd. — reduced accounting errors by 10% and cut travel costs by 20% through e-transactions.\nMarketing & Sales Associate (Jan–Mar 2025) at Canadian Tier Financial Services / Sales Beaver — mentored a sales team and consistently exceeded weekly targets.\nBBA (CGPA 3.26), Apex College, Pokhara University; MBA (in progress), UCW.\n\n\nAccessibility note: all images have alt text; navigation works with keyboard; external links open in a new tab."
+    "text": "Highlights\n\nFinance & Admin Officer (2021–2024) at Dilip Galla Bhandar Pvt. Ltd. — reduced accounting errors by 10% and cut travel costs by 20% through e-transactions.\nMarketing & Sales Associate (Jan–Mar 2025) at Canadian Tier Financial Services / Sales Beaver — mentored a sales team and consistently exceeded weekly targets.\nBBA (CGPA 3.26), Apex College, Pokhara University; MBA (in progress), UCW."
   },
   {
     "objectID": "index.html#focus-areas",
@@ -81,14 +81,14 @@
     "href": "projects.html",
     "title": "Projects & Case Studies",
     "section": "",
-    "text": "LLM note: Initial outlines drafted with an LLM, then edited by Vinay; evidence links and files are provided where available."
+    "text": "Summary: Evaluated two production options for a circuit breaker manufacturer; balanced capacity, labor mix (permanent/temp/overtime), inventory, and demand uncertainty.\nMy Role: Built cost scenarios, highlighted implementation risks, and discussed marketing impacts.\nArtifacts: Forecast tables, scenario summaries, APA‑style report excerpts.\nSkills: Forecasting, workforce planning, risk analysis."
   },
   {
     "objectID": "projects.html#production-planning-strategy-tl-ltd-postcovid",
     "href": "projects.html#production-planning-strategy-tl-ltd-postcovid",
     "title": "Projects & Case Studies",
-    "section": "1) Production Planning Strategy — T&L Ltd (Post‑COVID)",
-    "text": "1) Production Planning Strategy — T&L Ltd (Post‑COVID)\n\nSummary: Evaluated two production options for a circuit breaker manufacturer; balanced capacity, labor mix (permanent/temp/overtime), inventory, and demand uncertainty.\nMy Role: Built cost scenarios, highlighted implementation risks, and discussed marketing impacts.\nArtifacts: Forecast tables, scenario summaries, APA‑style report excerpts.\nSkills: Forecasting, workforce planning, risk analysis."
+    "section": "",
+    "text": "Summary: Evaluated two production options for a circuit breaker manufacturer; balanced capacity, labor mix (permanent/temp/overtime), inventory, and demand uncertainty.\nMy Role: Built cost scenarios, highlighted implementation risks, and discussed marketing impacts.\nArtifacts: Forecast tables, scenario summaries, APA‑style report excerpts.\nSkills: Forecasting, workforce planning, risk analysis."
   },
   {
     "objectID": "projects.html#digital-care-roadmap-20262029",
@@ -109,21 +109,21 @@
     "href": "projects.html#online-grocery-delivery-case",
     "title": "Projects & Case Studies",
     "section": "4) Online Grocery Delivery Case",
-    "text": "4) Online Grocery Delivery Case\n\nSummary: Modeled demand, evaluated delivery economics, and proposed KPIs.\nArtifacts: Metric definitions, model snippets, APA‑referenced write‑up.\nSkills: Data analysis, KPI design, operations thinking.\n\n\nTip: Add links to PDFs or Google Drive for full reports, and include short screenshots with alt text."
+    "text": "4) Online Grocery Delivery Case\n\nSummary: Modeled demand, evaluated delivery economics, and proposed KPIs.\nArtifacts: Metric definitions, model snippets, APA‑referenced write‑up.\nSkills: Data analysis, KPI design, operations thinking."
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume / CV",
     "section": "",
-    "text": "Note on authorship: This page merges and polishes content from two prior resumes using an LLM and manual edits by Vinay Gupta. Last updated August 22, 2025."
+    "text": "Vinay Gupta \\ Vancouver, BC \\ (+1) 236-777-7583 \\ Email: vinay.gupta@apexcollege.edu.np \\ LinkedIn: https://www.linkedin.com/in/vinay-gupta-37b900207/\n⬇️ Download a printable resume (PDF)"
   },
   {
     "objectID": "resume.html#contact",
     "href": "resume.html#contact",
     "title": "Resume / CV",
-    "section": "Contact",
-    "text": "Contact\nVinay Gupta \\ Vancouver, BC \\ (+1) 236-777-7583 \\ Email: vinay.gupta@apexcollege.edu.np \\ LinkedIn: https://www.linkedin.com/in/vinay-gupta-37b900207/\n⬇️ Download a printable resume (PDF)"
+    "section": "",
+    "text": "Vinay Gupta \\ Vancouver, BC \\ (+1) 236-777-7583 \\ Email: vinay.gupta@apexcollege.edu.np \\ LinkedIn: https://www.linkedin.com/in/vinay-gupta-37b900207/\n⬇️ Download a printable resume (PDF)"
   },
   {
     "objectID": "resume.html#professional-summary",
@@ -144,7 +144,7 @@
     "href": "resume.html#experience",
     "title": "Resume / CV",
     "section": "Experience",
-    "text": "Experience\nMarketing & Sales Associate — Canadian Tier Financial Services | Sales Beaver (Canada) \\ Jan 2025 – Mar 2025 - Present\n- Promoted to leadership for consistent target overachievement and strong CSAT.\n- Mentored a team of sales account executives; assisted with hiring and training new members.\n- Organized field sales trips; ensured daily/weekly target attainment through coaching and performance tracking.\n- Delivered tailored, face-to-face product presentations and consistently exceeded weekly targets.\nFinance & Administrative Officer — Dilip Galla Bhandar Pvt. Ltd. (Nepal) \\ Jul 2021 – Nov 2024\n- Reduced accounting errors by 10% through process reviews and adoption of Tally ERP.\n- Advanced MIS reporting for stakeholders; increased effectiveness of accounting practices.\n- Performed daily e-transactions up to NPR 3 million, cutting travel costs by 20%.\n- Managed budgets up to NPR 5 million and contributed to recovery of NPR 100 million in receivables (FY 2022/23).\n- Maintained books for ~30 clients; prepared daily journal entries and periodic financial reports.\nOther Academic/Support Roles — Apex College \\ 2019 – 2021\n- Class Representative (2019): Represented 60 students; coordinated with faculty and program councils; supported scheduling and communications.\n- Viva Exam Invigilator (Aug 2021, 1 week): Enforced exam rules, verified attendance for 2,000+ students; assisted with evaluation for 150+ students/day."
+    "text": "Experience\nMarketing & Sales Associate — Canadian Tier Financial Services | Sales Beaver (Canada) \\ Jan 2025 – Mar 2025 - Present\n- Promoted to leadership for consistent target over-achievement and strong CSAT.\n- Mentored a team of sales account executives; assisted with hiring and training new members.\n- Organized field sales trips; ensured daily/weekly target attainment through coaching and performance tracking.\n- Delivered tailored, face-to-face product presentations and consistently exceeded weekly targets.\n- Consistently meet and exceed daily and weekly sales targets through personalized recommendations and customer relationship building.\nFinance & Administrative Officer — Dilip Galla Bhandar Pvt. Ltd. (Nepal) \\ Jul 2021 – Nov 2024\n- Reduced accounting errors by 10% through process reviews and adoption of Tally ERP.\n- Advanced MIS reporting for stakeholders; increased effectiveness of accounting practices.\n- Performed daily e-transactions up to NPR 3 million, cutting travel costs by 20%.\n- Managed budgets up to NPR 5 million and contributed to recovery of NPR 100 million in receivables (FY 2022/23).\n- Maintained books for ~30 clients; prepared daily journal entries and periodic financial reports.\nOther Academic/Support Roles — Apex College \\ 2019 – 2021\n- Class Representative (2019): Represented 60 students; coordinated with faculty and program councils; supported scheduling and communications.\n- Viva Exam Invigilator (Aug 2021, 1 week): Enforced exam rules, verified attendance for 2,000+ students; assisted with evaluation for 150+ students/day."
   },
   {
     "objectID": "resume.html#education",
@@ -165,6 +165,6 @@
     "href": "resume.html#additional-info",
     "title": "Resume / CV",
     "section": "Additional Info",
-    "text": "Additional Info\n\nAvailability: Open to day/evening/weekend shifts\n\nTools: Tally ERP, MS Office; POS familiarity\n\nLanguages: English, Nepali, Hindi & Maithili"
+    "text": "Additional Info\n\nTools: Tally ERP, MS Office; POS familiarity\n\nLanguages: English, Nepali, Hindi & Maithili"
   }
 ]

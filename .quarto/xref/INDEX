@@ -1,6 +1,7 @@
 {
   "appendix.qmd": {
-    "appendix.html": "95f6a30a"
+    "appendix.html": "95f6a30a",
+    "appendix.tex": "b24b708f"
   },
   "contact.qmd": {
     "contact.html": "d331d7e8"
@@ -15,7 +16,8 @@
     "projects.html": "867bfe87"
   },
   "reflection.qmd": {
-    "reflection.html": "87598fe3"
+    "reflection.html": "87598fe3",
+    "reflection.tex": "07ed9686"
   },
   "resume.qmd": {
     "resume.html": "c31cf090"

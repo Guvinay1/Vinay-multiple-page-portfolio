@@ -3,8 +3,6 @@ title: "Projects & Case Studies"
 page-layout: article
 ---
 
-> **LLM note:** Initial outlines drafted with an LLM, then edited by Vinay; evidence links and files are provided where available.
-
 ## 1) Production Planning Strategy — T&L Ltd (Post‑COVID)
 
 -   **Summary:** Evaluated two production options for a circuit breaker manufacturer; balanced capacity, labor mix (permanent/temp/overtime), inventory, and demand uncertainty.
@@ -27,7 +25,7 @@ page-layout: article
 ## 4) Online Grocery Delivery Case
 
 -   **Summary:** Modeled demand, evaluated delivery economics, and proposed KPIs.
--   **Artifacts:** Metric definitions, model snippets, APA‑referenced write‑up.
--   **Skills:** Data analysis, KPI design, operations thinking.
 
-> *Tip:* Add links to PDFs or Google Drive for full reports, and include short screenshots with alt text.
+-   **Artifacts:** Metric definitions, model snippets, APA‑referenced write‑up.
+
+-   **Skills:** Data analysis, KPI design, operations thinking.

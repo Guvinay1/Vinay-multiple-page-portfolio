@@ -36,7 +36,7 @@ page-footer:
 
 format:
   html:
-    theme: cosmo
+    theme: architect
     toc: true
     toc-location: left
     number-sections: false

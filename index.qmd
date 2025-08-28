@@ -17,9 +17,7 @@ MBA candidate at University Canada West and experienced finance & operations pro
 -   **Email:** [vinay.gupta\@apexcollege.edu.np](mailto:vinay.gupta@apexcollege.edu.np){.email}\
 -   **LinkedIn:** [https://www.linkedin.com/in/vinay-gupta-37b900207/https:/](https://www.linkedin.com/in/vinay-gupta-37b900207/)\>
 
-::: callout-note
-This website was built with Quarto and includes content first drafted with an LLM, then edited and verified by me. Pages that include LLM-polished text are labeled accordingly.
-:::
+
 
 ## Highlights
 
@@ -27,9 +25,7 @@ This website was built with Quarto and includes content first drafted with an LL
 -   Marketing & Sales Associate (Jan–Mar 2025) at **Canadian Tier Financial Services / Sales Beaver** — mentored a sales team and consistently exceeded weekly targets.
 -   BBA (CGPA 3.26), Apex College, Pokhara University; **MBA (in progress)**, UCW.
 
-> *Accessibility note:* all images have alt text; navigation works with keyboard; external links open in a new tab.
 
-::: {{.panel-tabset}}
 ## Focus Areas
 
 -   Financial analysis & forecasting\
@@ -41,4 +37,3 @@ This website was built with Quarto and includes content first drafted with an LL
 
 -   Data storytelling with Quarto\
 -   Advanced Excel modeling & Python basics
-:::
