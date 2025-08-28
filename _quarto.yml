@@ -32,7 +32,7 @@ page-footer:
 
 format:
   html:
-    theme: architect
+    theme: minty
     toc: true
     toc-location: left
     number-sections: false
