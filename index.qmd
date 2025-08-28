@@ -1,7 +1,10 @@
 ---
 title: "About"
 page-layout: article
-image: assets/headshot.jpg
+image: "assets/headshot.jpg"
+---
+
+![](assets/headshot.jpg){width="150"}
 ---
 
 ## 
