@@ -3,8 +3,8 @@ title: "Contact"
 page-layout: article
 ---
 
--   📍 Vancouver, BC\
+-   📍 Vancouver, BC, V5W3P4, Canada\
 
 -   📧 Email: [vinay.gupta\@apexcollege.edu.np](mailto:vinay.gupta@apexcollege.edu.np){.email}\
 
--   🔗 LinkedIn: <https://www.linkedin.com/in/%3Cyour-handle>/\>\
+-   🔗 LinkedIn: <https://www.linkedin.com/in/vinay-gupta-37b900207/>\

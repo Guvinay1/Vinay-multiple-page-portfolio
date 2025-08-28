@@ -13,7 +13,7 @@ image: "assets/headshot.jpg"
 
 MBA candidate at University Canada West and experienced finance & operations professional with a background in retail sales leadership and SME accounting. Motivated and customer-focused retail sales professional with proven experience in sales, customer engagement, and team leadership.  A self-starter with strong communication skills, adaptable to fast-paced environments, and driven to meet and exceed sales targets.
 
--   **Location:** Vancouver, BC , V5W3P4\
+-   **Location:** Vancouver, BC , V5W3P4\ Canada
 -   **Email:** [vinay.gupta\@apexcollege.edu.np](mailto:vinay.gupta@apexcollege.edu.np){.email}\
 -   **LinkedIn:** [https://www.linkedin.com/in/vinay-gupta-37b900207/https:/](https://www.linkedin.com/in/vinay-gupta-37b900207/)\>
 
